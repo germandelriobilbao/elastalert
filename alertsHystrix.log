@@ -1,0 +1,12 @@
+Mon Jun 25 12:49:08 2018Alerta por apertura circuito Hystrix.Hystrix
+
+At least 1 events occurred between 2018-06-25 12:31 CEST and 2018-06-25 12:32 CEST
+
+@timestamp: 2018-06-25T10:32:46.124Z
+_id: AWQ2gTjnW3yrb8RQrzxK
+_index: index-micro-2018.06.25
+_type: log
+host: AOTLXPRMIC00011
+num_hits: 641
+num_matches: 49
+
